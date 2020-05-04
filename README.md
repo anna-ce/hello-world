@@ -1,3 +1,3 @@
 # hello-world
 tutorial
-this is mymessage that describes my changes
+this is my message that describes my changes
